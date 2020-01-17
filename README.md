@@ -1,2 +1,2 @@
-# Setting_Blockchain
-A simple guide to set up an automatic private-network blockchain in a Linux-based Operating system
+# Blockchain-enabled secure medical signal transmission.
+The repository contains code, flow diagram for implementing a secure method of medical information transmission using Blockchain.
